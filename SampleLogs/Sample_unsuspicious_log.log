@@ -1,0 +1,143 @@
+Jun 22 00:15:16 TuRb0s-MacBook-Air syslogd[119]: ASL Sender Statistics
+Jun 22 00:35:45 TuRb0s-MacBook-Air syslogd[119]: ASL Sender Statistics
+Jun 22 00:35:46 TuRb0s-MacBook-Air syslogd[119]: Configuration Notice:
+	ASL Module "com.apple.cdscheduler" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Jun 22 00:35:46 TuRb0s-MacBook-Air syslogd[119]: Configuration Notice:
+	ASL Module "com.apple.install" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Jun 22 00:35:46 TuRb0s-MacBook-Air syslogd[119]: Configuration Notice:
+	ASL Module "com.apple.authd" sharing output destination "/var/log/asl" with ASL Module "com.apple.asl".
+	Output parameters from ASL Module "com.apple.asl" override any specified in ASL Module "com.apple.authd".
+Jun 22 00:35:46 TuRb0s-MacBook-Air syslogd[119]: Configuration Notice:
+	ASL Module "com.apple.authd" sharing output destination "/var/log/system.log" with ASL Module "com.apple.asl".
+	Output parameters from ASL Module "com.apple.asl" override any specified in ASL Module "com.apple.authd".
+Jun 22 00:35:46 TuRb0s-MacBook-Air syslogd[119]: Configuration Notice:
+	ASL Module "com.apple.authd" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Jun 22 00:35:46 TuRb0s-MacBook-Air syslogd[119]: Configuration Notice:
+	ASL Module "com.apple.eventmonitor" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Jun 22 00:35:46 TuRb0s-MacBook-Air syslogd[119]: Configuration Notice:
+	ASL Module "com.apple.mail" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Jun 22 00:35:46 TuRb0s-MacBook-Air syslogd[119]: Configuration Notice:
+	ASL Module "com.apple.performance" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Jun 22 00:35:46 TuRb0s-MacBook-Air syslogd[119]: Configuration Notice:
+	ASL Module "com.apple.iokit.power" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Jun 22 00:35:46 TuRb0s-MacBook-Air syslogd[119]: Configuration Notice:
+	ASL Module "com.apple.contacts.ContactsAutocomplete" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Jun 22 00:35:46 TuRb0s-MacBook-Air syslogd[119]: Configuration Notice:
+	ASL Module "com.apple.mkb" sharing output destination "/private/var/log/keybagd.log" with ASL Module "com.apple.mkb.internal".
+	Output parameters from ASL Module "com.apple.mkb.internal" override any specified in ASL Module "com.apple.mkb".
+Jun 22 00:35:46 TuRb0s-MacBook-Air syslogd[119]: Configuration Notice:
+	ASL Module "com.apple.mkb" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Jun 22 00:35:46 TuRb0s-MacBook-Air syslogd[119]: Configuration Notice:
+	ASL Module "com.apple.MessageTracer" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Jun 22 00:45:49 TuRb0s-MacBook-Air syslogd[119]: ASL Sender Statistics
+Jun 22 00:58:38 TuRb0s-MacBook-Air syslogd[119]: ASL Sender Statistics
+Jun 22 01:14:50 TuRb0s-MacBook-Air syslogd[119]: ASL Sender Statistics
+Jun 22 01:25:03 TuRb0s-MacBook-Air syslogd[119]: ASL Sender Statistics
+Jun 22 01:35:41 TuRb0s-MacBook-Air syslogd[119]: ASL Sender Statistics
+Jun 22 01:51:34 TuRb0s-MacBook-Air syslogd[119]: ASL Sender Statistics
+Jun 22 02:04:22 TuRb0s-MacBook-Air login[57116]: DEAD_PROCESS: 57116 ttys001
+Jun 22 02:04:22 TuRb0s-MacBook-Air syslogd[119]: ASL Sender Statistics
+Jun 22 02:04:22 TuRb0s-MacBook-Air login[54972]: DEAD_PROCESS: 54972 ttys000
+Jun 22 02:06:43 TuRb0s-MacBook-Air login[59332]: USER_PROCESS: 59332 ttys000
+Jun 22 02:18:43 TuRb0s-MacBook-Air syslogd[119]: ASL Sender Statistics
+Jun 22 02:20:22 TuRb0s-MacBook-Air login[59860]: USER_PROCESS: 59860 ttys001
+Jun 22 02:20:23 TuRb0s-MacBook-Air login[59860]: DEAD_PROCESS: 59860 ttys001
+Jun 22 02:28:46 TuRb0s-MacBook-Air syslogd[119]: ASL Sender Statistics
+Jun 22 02:31:46 TuRb0s-MacBook-Air login[59996]: USER_PROCESS: 59996 ttys001
+Jun 22 02:41:07 TuRb0s-MacBook-Air syslogd[119]: ASL Sender Statistics
+Jun 22 02:51:34 TuRb0s-MacBook-Air syslogd[119]: ASL Sender Statistics
+Jun 22 03:01:58 TuRb0s-MacBook-Air login[59332]: DEAD_PROCESS: 59332 ttys000
+Jun 22 03:01:58 TuRb0s-MacBook-Air syslogd[119]: ASL Sender Statistics
+Jun 22 03:01:59 TuRb0s-MacBook-Air login[59996]: DEAD_PROCESS: 59996 ttys001
+Jun 22 03:20:49 TuRb0s-MacBook-Air syslogd[119]: ASL Sender Statistics
+Jun 22 03:36:21 TuRb0s-MacBook-Air syslogd[119]: ASL Sender Statistics
+Jun 22 03:53:26 TuRb0s-MacBook-Air syslogd[119]: ASL Sender Statistics
+Jun 22 04:08:58 TuRb0s-MacBook-Air syslogd[119]: ASL Sender Statistics
+Jun 22 04:25:09 TuRb0s-MacBook-Air syslogd[119]: ASL Sender Statistics
+Jun 22 04:40:12 TuRb0s-MacBook-Air syslogd[119]: ASL Sender Statistics
+Jun 22 04:55:15 TuRb0s-MacBook-Air syslogd[119]: ASL Sender Statistics
+Jun 22 05:06:15 TuRb0s-MacBook-Air syslogd[119]: ASL Sender Statistics
+Jun 22 05:23:26 TuRb0s-MacBook-Air syslogd[119]: ASL Sender Statistics
+Jun 22 05:39:27 TuRb0s-MacBook-Air syslogd[119]: ASL Sender Statistics
+Jun 22 05:55:08 TuRb0s-MacBook-Air syslogd[119]: ASL Sender Statistics
+Jun 22 06:07:15 TuRb0s-MacBook-Air syslogd[119]: ASL Sender Statistics
+Jun 22 06:22:42 TuRb0s-MacBook-Air syslogd[119]: ASL Sender Statistics
+Jun 22 06:40:30 TuRb0s-MacBook-Air syslogd[119]: ASL Sender Statistics
+Jun 22 06:56:14 TuRb0s-MacBook-Air syslogd[119]: ASL Sender Statistics
+Jun 22 07:08:15 TuRb0s-MacBook-Air syslogd[119]: ASL Sender Statistics
+Jun 22 07:24:28 TuRb0s-MacBook-Air syslogd[119]: ASL Sender Statistics
+Jun 22 07:41:38 TuRb0s-MacBook-Air syslogd[119]: ASL Sender Statistics
+Jun 22 07:59:06 TuRb0s-MacBook-Air syslogd[119]: ASL Sender Statistics
+Jun 22 08:09:15 TuRb0s-MacBook-Air syslogd[119]: ASL Sender Statistics
+Jun 22 08:24:28 TuRb0s-MacBook-Air syslogd[119]: ASL Sender Statistics
+Jun 22 08:39:58 TuRb0s-MacBook-Air syslogd[119]: ASL Sender Statistics
+Jun 22 09:03:10 TuRb0s-Air syslogd[119]: ASL Sender Statistics
+Jun 22 09:27:18 TuRb0s-Air syslogd[119]: ASL Sender Statistics
+Jun 22 09:44:27 TuRb0s-Air syslogd[119]: ASL Sender Statistics
+Jun 22 10:01:05 TuRb0s-Air syslogd[119]: ASL Sender Statistics
+Jun 22 10:11:14 TuRb0s-Air syslogd[119]: ASL Sender Statistics
+Jun 22 10:28:23 TuRb0s-Air syslogd[119]: ASL Sender Statistics
+Jun 22 10:41:09 TuRb0s-Air syslogd[119]: ASL Sender Statistics
+Jun 22 10:51:40 TuRb0s-Air syslogd[119]: ASL Sender Statistics
+Jun 22 10:56:21 TuRb0s-Air login[61144]: USER_PROCESS: 61144 ttys000
+Jun 22 11:02:54 TuRb0s-Air syslogd[119]: ASL Sender Statistics
+Jun 22 11:12:55 TuRb0s-Air syslogd[119]: ASL Sender Statistics
+Jun 22 11:23:03 TuRb0s-Air syslogd[119]: ASL Sender Statistics
+Jun 22 11:34:21 TuRb0s-Air syslogd[119]: ASL Sender Statistics
+Jun 22 11:44:32 TuRb0s-Air syslogd[119]: ASL Sender Statistics
+Jun 22 11:54:33 TuRb0s-Air syslogd[119]: ASL Sender Statistics
+Jun 22 12:05:01 TuRb0s-Air syslogd[119]: ASL Sender Statistics
+Jun 22 12:15:26 TuRb0s-Air syslogd[119]: ASL Sender Statistics
+Jun 22 12:25:41 TuRb0s-Air syslogd[119]: ASL Sender Statistics
+Jun 22 12:35:54 TuRb0s-Air syslogd[119]: ASL Sender Statistics
+Jun 22 12:46:10 TuRb0s-Air syslogd[119]: ASL Sender Statistics
+Jun 22 12:57:16 TuRb0s-Air syslogd[119]: ASL Sender Statistics
+Jun 22 13:07:38 TuRb0s-Air syslogd[119]: ASL Sender Statistics
+Jun 22 13:13:04 TuRb0s-Air login[62016]: USER_PROCESS: 62016 ttys001
+Jun 22 13:23:22 TuRb0s-Air login[61144]: DEAD_PROCESS: 61144 ttys000
+Jun 22 13:23:22 TuRb0s-Air syslogd[119]: ASL Sender Statistics
+Jun 22 13:33:33 TuRb0s-Air syslogd[119]: ASL Sender Statistics
+Jun 22 13:51:43 TuRb0s-Air syslogd[119]: ASL Sender Statistics
+Jun 22 14:02:00 TuRb0s-Air syslogd[119]: ASL Sender Statistics
+Jun 22 14:16:53 TuRb0s-Air login[62016]: DEAD_PROCESS: 62016 ttys001
+Jun 22 14:16:53 TuRb0s-Air syslogd[119]: ASL Sender Statistics
+Jun 22 14:28:42 TuRb0s-Air syslogd[119]: ASL Sender Statistics
+Jun 22 14:41:21 TuRb0s-Air syslogd[119]: ASL Sender Statistics
+Jun 22 14:51:34 TuRb0s-Air syslogd[119]: ASL Sender Statistics
+Jun 22 15:02:45 TuRb0s-Air syslogd[119]: ASL Sender Statistics
+Jun 22 15:13:43 TuRb0s-Air syslogd[119]: ASL Sender Statistics
+Jun 22 15:23:52 TuRb0s-Air syslogd[119]: ASL Sender Statistics
+Jun 22 15:34:26 TuRb0s-Air syslogd[119]: ASL Sender Statistics
+Jun 22 15:45:47 TuRb0s-Air syslogd[119]: ASL Sender Statistics
+Jun 22 15:56:01 TuRb0s-Air syslogd[119]: ASL Sender Statistics
+Jun 22 16:06:02 TuRb0s-Air syslogd[119]: ASL Sender Statistics
+Jun 22 16:16:12 TuRb0s-Air syslogd[119]: ASL Sender Statistics
+Jun 22 16:26:12 TuRb0s-Air syslogd[119]: ASL Sender Statistics
+Jun 22 16:33:01 TuRb0s-Air login[64176]: USER_PROCESS: 64176 ttys000
+Jun 22 16:37:00 TuRb0s-Air login[64249]: USER_PROCESS: 64249 ttys001
+Jun 22 16:37:00 TuRb0s-Air syslogd[119]: ASL Sender Statistics
+Jun 22 16:47:16 TuRb0s-Air syslogd[119]: ASL Sender Statistics
+Jun 22 16:58:05 TuRb0s-Air syslogd[119]: ASL Sender Statistics
+Jun 22 17:08:57 TuRb0s-Air syslogd[119]: ASL Sender Statistics
+Jun 22 17:09:20 TuRb0s-Air login[64249]: DEAD_PROCESS: 64249 ttys001
+Jun 22 17:09:20 TuRb0s-Air login[64176]: DEAD_PROCESS: 64176 ttys000
+Jun 22 17:21:02 TuRb0s-Air syslogd[119]: ASL Sender Statistics
+Jun 22 17:24:07 TuRb0s-Air login[64756]: USER_PROCESS: 64756 ttys001
+Jun 22 17:24:07 TuRb0s-Air login[64755]: USER_PROCESS: 64755 ttys000
+Jun 22 17:32:40 TuRb0s-Air syslogd[119]: ASL Sender Statistics
+Jun 22 17:39:40 TuRb0s-Air login[64756]: DEAD_PROCESS: 64756 ttys001
+Jun 22 17:39:40 TuRb0s-Air login[64755]: DEAD_PROCESS: 64755 ttys000
+Jun 22 17:42:50 TuRb0s-Air syslogd[119]: ASL Sender Statistics
+Jun 22 17:52:56 TuRb0s-Air syslogd[119]: ASL Sender Statistics
+Jun 22 18:06:53 TuRb0s-Air syslogd[119]: ASL Sender Statistics
+Jun 22 18:09:31 TuRb0s-Air login[65160]: USER_PROCESS: 65160 ttys000
