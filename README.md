@@ -50,13 +50,13 @@ python3 -m venv venv
 venv\Scripts\activate   
 ```
 
-2. Install the required libraries:
+3. Install the required libraries:
 
     ```bash
     pip3 install -r requirements.txt
     ```
 
-3. If `tkinter` is not installed, install it via this command:
+4. If `tkinter` is not installed, install it via this command:
 
     ```bash
     sudo apt-get install python3-tk           # For Debian-based systems
